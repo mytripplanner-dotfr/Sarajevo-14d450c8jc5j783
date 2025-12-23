@@ -1,0 +1,193 @@
+{
+  "pays": "Bosnie-Herzégovine",
+  "drapeau": "🇧🇦",
+  "symbole": "✨",
+  "titre": "Sarajevo: Évasion Douce au Cœur des Balkans",
+  "budget_total": "604 €",
+  "duree": "4 jours",
+  "temps_vol": "4h00 (depuis Paris, france)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Charme de la Vieille Ville",
+      "legende": "Débutez votre séjour en douceur par une immersion dans l'atmosphère unique de Sarajevo. Après votre arrivée, installez-vous confortablement avant de vous perdre dans les ruelles pavées de la Baščaršija, le cœur historique et commercial de la ville. Laissez-vous charmer par l'architecture ottomane et l'ambiance vibrante de ce quartier emblématique.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Sarajevo (SJJ)</strong>: Atterrissage et transfert vers votre hébergement au centre-ville.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de déposer vos bagages.",
+        "<strong>🚶‍♂️ Balade relaxante dans la Baščaršija (Vieux Bazar)</strong>: Explorez le quartier historique, admirez la fontaine Sebilj et imprégnez-vous de l'ambiance orientale. Idéal pour une première approche sans hâte."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Monnaie locale",
+          "texte": "La monnaie est le Mark convertible (BAM). 1€ équivaut à environ 1.95 BAM. Les cartes sont acceptées, mais prévoyez du liquide pour les petits commerces."
+        },
+        {
+          "symbole": "🚌",
+          "titre": "Transfert aéroport",
+          "texte": "Un bus relie l'aéroport au centre-ville (arrêt Baščaršija) pour environ 5 BAM. Les taxis sont aussi disponibles pour environ 20-25 BAM."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🕌",
+      "titre": "Patrimoine Culturel et Vues Panoramiques",
+      "legende": "Plongez au cœur de l'histoire complexe de Sarajevo en explorant ses sites emblématiques. De la rencontre des cultures à la mémoire des conflits, cette journée vous offre une perspective riche et émouvante. Terminez par une vue imprenable sur la ville pour une fin de journée apaisante.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "<strong>🌉 Visite du Pont Latin et du Musée de Sarajevo 1878-1918</strong>: Découvrez le lieu de l'assassinat de l'Archiduc François-Ferdinand, événement déclencheur de la Première Guerre mondiale. Le musée offre un aperçu historique concis.",
+        "<strong>🕌 Exploration de la Mosquée de Gazi Husrev-beg</strong>: Admirez l'une des plus belles mosquées ottomanes des Balkans, un chef-d'œuvre architectural au cœur de la vieille ville. Respectez les codes vestimentaires.",
+        "<strong>⛰️ Montée à la Forteresse Jaune (Žuta Tabija) pour le coucher du soleil</strong>: Profitez d'une balade douce jusqu'à cette forteresse offrant une vue panoramique spectaculaire sur Sarajevo, particulièrement magique au crépuscule."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Conseil de marche",
+          "texte": "La montée à la Forteresse Jaune est agréable mais peut être un peu raide. Prévoyez de bonnes chaussures et prenez votre temps pour profiter du paysage."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Horaires",
+          "texte": "Vérifiez les horaires d'ouverture des musées et mosquées, ils peuvent varier."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Nature Apaisante et Détente Thermale",
+      "legende": "Échappez à l'agitation urbaine pour une journée dédiée à la nature et à la relaxation. Le parc de Vrelo Bosne, avec ses sources cristallines, offre une parenthèse de sérénité. Poursuivez avec une expérience de détente dans les environs d'Ilidža, réputée pour ses eaux thermales.",
+      "lieu": "Ilidža / Sarajevo",
+      "activites": [
+        "<strong>🏞️ Promenade au Parc de Vrelo Bosne</strong>: Explorez les sources de la rivière Bosna, un parc naturel magnifique et paisible, idéal pour une balade tranquille à pied ou en calèche. Un véritable havre de paix.",
+        "<strong>♨️ Détente aux thermes d'Ilidža</strong>: Profitez des bienfaits des eaux thermales dans l'un des spas ou hôtels proposant des piscines et soins. Une activité parfaite pour se relaxer après la marche.",
+        "<strong>☕ Pause café dans un salon de thé traditionnel</strong>: Terminez la journée par une expérience locale en savourant un café bosnien et des douceurs dans un cadre authentique."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚊",
+          "titre": "Accès à Ilidža",
+          "texte": "Prenez le tramway n°3 depuis le centre de Sarajevo jusqu'à Ilidža (environ 30 minutes). De là, le parc de Vrelo Bosne est accessible à pied ou en calèche."
+        },
+        {
+          "symbole": "🌿",
+          "titre": "Nature préservée",
+          "texte": "Vrelo Bosne est un site protégé, respectez la nature et les indications pour préserver sa beauté."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Souvenirs et Départ",
+      "legende": "Profitez de cette dernière matinée pour quelques achats de souvenirs ou une dernière immersion culturelle. Flânez une dernière fois dans les rues de Sarajevo, savourez un dernier café bosnien avant de vous diriger vers l'aéroport, la tête pleine de souvenirs apaisants.",
+      "lieu": "Sarajevo",
+      "activites": [
+        "<strong>🛍️ Achats de souvenirs à la Baščaršija</strong>: Trouvez des objets artisanaux, du café bosnien ou des délices locaux pour ramener un peu de Sarajevo chez vous.",
+        "<strong>☕ Dernier café bosnien</strong>: Prenez le temps de savourer un café traditionnel dans l'un des nombreux cafés de la vieille ville, observant l'animation matinale.",
+        "<strong>🛫 Départ de l'aéroport de Sarajevo (SJJ)</strong>: Transfert vers l'aéroport pour votre vol retour vers Paris, france."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées cadeaux",
+          "texte": "Les objets en cuivre, les bijoux faits main, les tapis et les produits à base de rose sont des souvenirs populaires et authentiques."
+        },
+        {
+          "symbole": "✈️",
+          "titre": "Anticipation",
+          "texte": "Prévoyez suffisamment de temps pour le transfert à l'aéroport et les formalités d'embarquement, surtout en période de forte affluence."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 239 €/pers (A/R Paris-Sarajevo)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 45 €/pers (transferts aéroport et transports locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 140 €/pers (35€/jour pour des repas variés)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 150 €/pers (3 nuits en hôtel 3* confortable)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 30 €/pers (entrées musées, parcs, thermes)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Printemps (Avril-Juin)",
+      "symbole": "🌸"
+    },
+    {
+      "titre": "Automne (Septembre-Octobre)",
+      "symbole": "🍂"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La langue officielle est le bosniaque, mais l'anglais est couramment parlé dans les zones touristiques. Quelques mots de bosniaque seront appréciés.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Le Mark convertible (BAM) est la monnaie locale. Les euros sont parfois acceptés, mais il est préférable de payer en BAM. Les cartes bancaires sont largement acceptées.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Sarajevo est une ville sûre, mais comme dans toute destination touristique, soyez vigilant face aux pickpockets dans les lieux très fréquentés.",
+      "symbole": "⚠️"
+    },
+    {
+      "titre": "Les prises électriques sont de type F, identiques à celles utilisées en France. Pas besoin d'adaptateur.",
+      "symbole": "🔌"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol pour Sarajevo",
+      "url": "https://www.kayak.fr/flights/CDG-SJJ/2026-05-15/2026-05-19",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Office de Tourisme de Sarajevo",
+      "titre": "Infos officielles et inspirations",
+      "url": "https://sarajevo.travel/en",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Transports en commun Sarajevo",
+      "titre": "Horaires des trams et bus (GRAS)",
+      "url": "https://gras.ba/",
+      "symbole": "🚊"
+    },
+    {
+      "legende": "Météo à Sarajevo",
+      "titre": "Prévisions météo détaillées",
+      "url": "https://www.accuweather.com/fr/ba/sarajevo/310373/weather-forecast/310373",
+      "symbole": "🌤️"
+    }
+  ]
+}
